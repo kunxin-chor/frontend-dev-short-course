@@ -1,0 +1,7 @@
+/* `#` stands for ID,
+so the following rule means:
+select the element with ID "title" and
+set its font size to 48 pixel */
+#title {
+    font-size: 48px;
+}
